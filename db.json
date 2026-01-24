@@ -1,0 +1,96 @@
+{
+  "books": [
+   {
+    "id": "1",
+    "title": "React Basics",
+    "author": "Dan Abramov",
+    "publisher": "Meta",
+    "publishedDate": "2023-01-10",
+    "price": 499,
+    "description": "Introduction to React fundamentals"
+  },
+  {
+    "id": "2",
+    "title": "JavaScript Essentials",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly",
+    "publishedDate": "2019-07-15",
+    "price": 350,
+    "description": "Deep dive into modern JavaScript concepts."
+  },
+  {
+  "id": "3",
+  "title": "HTML & CSS Fundamentals",
+  "author": "Jon Duckett",
+  "publisher": "Wiley",
+  "publishedDate": "2014-05-20",
+  "price": 299,
+  "description": "A beginner-friendly guide to HTML and CSS."
+},
+{
+  "id": "4",
+  "title": "Learning TypeScript",
+  "author": "Boris Cherny",
+  "publisher": "O'Reilly",
+  "publishedDate": "2019-04-25",
+  "price": 450,
+  "description": "A practical guide to understanding TypeScript."
+},
+{
+  "id": "5",
+  "title": "Node.js in Action",
+  "author": "Mike Cantelon",
+  "publisher": "Manning",
+  "publishedDate": "2017-10-01",
+  "price": 520,
+  "description": "Comprehensive guide to building applications with Node.js."
+},
+{
+  "id": "6",
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "publisher": "Prentice Hall",
+  "publishedDate": "2008-08-01",
+  "price": 650,
+  "description": "A handbook of agile software craftsmanship."
+},
+{
+  "id": "7",
+  "title": "Advanced React Patterns",
+  "author": "Kent C. Dodds",
+  "publisher": "Open Source",
+  "publishedDate": "2021-06-15",
+  "price": 550,
+  "description": "Best practices and advanced patterns for building React applications."
+},
+{
+  "id": "8",
+  "title": "You Don’t Know JS",
+  "author": "Kyle Simpson",
+  "publisher": "O'Reilly",
+  "publishedDate": "2018-12-18",
+  "price": 420,
+  "description": "In-depth exploration of JavaScript core mechanisms."
+},
+{
+  "id": "9",
+  "title": "Fullstack Development",
+  "author": "Chris Dixon",
+  "publisher": "Tech World",
+  "publishedDate": "2020-09-05",
+  "price": 480,
+  "description": "Guide to building fullstack web applications."
+},
+{
+  "id": "10",
+  "title": "Web Performance Optimization",
+  "author": "Ilya Grigorik",
+  "publisher": "O'Reilly",
+  "publishedDate": "2017-03-22",
+  "price": 510,
+  "description": "Techniques to improve website speed and performance."
+}
+
+
+  ]
+}
